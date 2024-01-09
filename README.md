@@ -3,11 +3,17 @@
 ## At the first you should run server part `cd server`
 
 In the project directory, you can run:
+### `npm install`
+
+Wait until the dependencies are installed and run: 
 ### `npm start`
 
 ## At the second you should run client part `cd client`
 
 In the project directory, you can run:
+### `npm install`
+
+Wait until the dependencies are installed and run:
 ### `npm start`
 
 Runs the app in the development mode.\
