@@ -1,0 +1,8 @@
+.BicyclePage {
+    display: flex;
+    min-height: 100vh;
+}
+
+.BicyclePage_rightSide {
+    width: 50%;
+}

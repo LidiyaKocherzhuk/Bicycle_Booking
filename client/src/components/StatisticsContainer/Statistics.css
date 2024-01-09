@@ -1,0 +1,16 @@
+.Statistics {
+    padding: 20px
+}
+
+.Statistics h2,
+.Statistics div{
+    font-family: Saira system-ui;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 28px;
+}
+
+.Statistics div {
+    font-size: 18px;
+    font-weight: 500;
+}
